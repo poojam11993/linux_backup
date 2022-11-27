@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "enter first integer"
+read a
+echo "enter second integer"
+read b
+echo "first integer is $a"
+echo "second interger is $b"
