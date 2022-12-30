@@ -1046,3 +1046,14 @@ sudo apt install jenkins
 sudo systemctl start jenkins
 jenkins --version
 sudo systemctl status jenkins
+ls
+vi tomcat.sh
+git add.
+git add .
+git commit -m "tomcat"
+git branch
+git push origin branch4
+ls
+vi tomcat.sh
+ls
+clear

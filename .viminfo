@@ -20,6 +20,8 @@
 $
 
 # Command Line History (newest to oldest):
+:q1
+|2,0,1669568634,,"q1"
 :wq!
 |2,0,1669560565,,"wq!"
 :q!
@@ -169,29 +171,33 @@ $
 
 # File marks:
 '0  15  32  ~/tomcat.sh
-|4,48,15,32,1669560565,"~/tomcat.sh"
-'1  19  8  ~/deploy.sh
-|4,49,19,8,1669373013,"~/deploy.sh"
+|4,48,15,32,1669568634,"~/tomcat.sh"
+'1  15  32  ~/tomcat.sh
+|4,49,15,32,1669560565,"~/tomcat.sh"
 '2  19  8  ~/deploy.sh
-|4,50,19,8,1669372839,"~/deploy.sh"
-'3  12  8  ~/build.sh
-|4,51,12,8,1669372215,"~/build.sh"
-'4  4  17  ~/threshold.sh
-|4,52,4,17,1669167483,"~/threshold.sh"
-'5  8  1  ~/threshold.sh
-|4,53,8,1,1669167447,"~/threshold.sh"
-'6  7  1  ~/threshold.sh
-|4,54,7,1,1669167447,"~/threshold.sh"
-'7  23  0  /tmp/crontab.qrQdWl/crontab
-|4,55,23,0,1669143598,"/tmp/crontab.qrQdWl/crontab"
-'8  6  1  ~/practices/rev.sh
-|4,56,6,1,1669141787,"~/practices/rev.sh"
-'9  5  20  ~/practices/rev.sh
-|4,57,5,20,1669141771,"~/practices/rev.sh"
+|4,50,19,8,1669373013,"~/deploy.sh"
+'3  19  8  ~/deploy.sh
+|4,51,19,8,1669372839,"~/deploy.sh"
+'4  12  8  ~/build.sh
+|4,52,12,8,1669372215,"~/build.sh"
+'5  4  17  ~/threshold.sh
+|4,53,4,17,1669167483,"~/threshold.sh"
+'6  8  1  ~/threshold.sh
+|4,54,8,1,1669167447,"~/threshold.sh"
+'7  7  1  ~/threshold.sh
+|4,55,7,1,1669167447,"~/threshold.sh"
+'8  23  0  /tmp/crontab.qrQdWl/crontab
+|4,56,23,0,1669143598,"/tmp/crontab.qrQdWl/crontab"
+'9  6  1  ~/practices/rev.sh
+|4,57,6,1,1669141787,"~/practices/rev.sh"
 
 # Jumplist (newest first):
 -'  15  32  ~/tomcat.sh
+|4,39,15,32,1669568634,"~/tomcat.sh"
+-'  15  32  ~/tomcat.sh
 |4,39,15,32,1669560565,"~/tomcat.sh"
+-'  1  0  ~/tomcat.sh
+|4,39,1,0,1669560529,"~/tomcat.sh"
 -'  1  0  ~/tomcat.sh
 |4,39,1,0,1669560529,"~/tomcat.sh"
 -'  19  8  ~/deploy.sh
@@ -199,6 +205,14 @@ $
 -'  19  8  ~/deploy.sh
 |4,39,19,8,1669373013,"~/deploy.sh"
 -'  19  8  ~/deploy.sh
+|4,39,19,8,1669373013,"~/deploy.sh"
+-'  19  8  ~/deploy.sh
+|4,39,19,8,1669373013,"~/deploy.sh"
+-'  19  8  ~/deploy.sh
+|4,39,19,8,1669372839,"~/deploy.sh"
+-'  19  8  ~/deploy.sh
+|4,39,19,8,1669372839,"~/deploy.sh"
+-'  19  8  ~/deploy.sh
 |4,39,19,8,1669372839,"~/deploy.sh"
 -'  19  8  ~/deploy.sh
 |4,39,19,8,1669372839,"~/deploy.sh"
@@ -210,6 +224,14 @@ $
 |4,39,1,0,1669372224,"~/deploy.sh"
 -'  1  0  ~/deploy.sh
 |4,39,1,0,1669372224,"~/deploy.sh"
+-'  1  0  ~/deploy.sh
+|4,39,1,0,1669372224,"~/deploy.sh"
+-'  1  0  ~/deploy.sh
+|4,39,1,0,1669372224,"~/deploy.sh"
+-'  1  0  ~/deploy.sh
+|4,39,1,0,1669372224,"~/deploy.sh"
+-'  1  0  ~/deploy.sh
+|4,39,1,0,1669372224,"~/deploy.sh"
 -'  12  8  ~/build.sh
 |4,39,12,8,1669372215,"~/build.sh"
 -'  12  8  ~/build.sh
@@ -226,6 +248,38 @@ $
 |4,39,12,8,1669372215,"~/build.sh"
 -'  12  8  ~/build.sh
 |4,39,12,8,1669372215,"~/build.sh"
+-'  12  8  ~/build.sh
+|4,39,12,8,1669372215,"~/build.sh"
+-'  12  8  ~/build.sh
+|4,39,12,8,1669372215,"~/build.sh"
+-'  12  8  ~/build.sh
+|4,39,12,8,1669372215,"~/build.sh"
+-'  12  8  ~/build.sh
+|4,39,12,8,1669372215,"~/build.sh"
+-'  12  8  ~/build.sh
+|4,39,12,8,1669372215,"~/build.sh"
+-'  12  8  ~/build.sh
+|4,39,12,8,1669372215,"~/build.sh"
+-'  12  8  ~/build.sh
+|4,39,12,8,1669372215,"~/build.sh"
+-'  12  8  ~/build.sh
+|4,39,12,8,1669372215,"~/build.sh"
+-'  1  0  ~/build.sh
+|4,39,1,0,1669371898,"~/build.sh"
+-'  1  0  ~/build.sh
+|4,39,1,0,1669371898,"~/build.sh"
+-'  1  0  ~/build.sh
+|4,39,1,0,1669371898,"~/build.sh"
+-'  1  0  ~/build.sh
+|4,39,1,0,1669371898,"~/build.sh"
+-'  1  0  ~/build.sh
+|4,39,1,0,1669371898,"~/build.sh"
+-'  1  0  ~/build.sh
+|4,39,1,0,1669371898,"~/build.sh"
+-'  1  0  ~/build.sh
+|4,39,1,0,1669371898,"~/build.sh"
+-'  1  0  ~/build.sh
+|4,39,1,0,1669371898,"~/build.sh"
 -'  1  0  ~/build.sh
 |4,39,1,0,1669371898,"~/build.sh"
 -'  1  0  ~/build.sh
@@ -274,6 +328,38 @@ $
 |4,39,4,17,1669167483,"~/threshold.sh"
 -'  4  17  ~/threshold.sh
 |4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
+-'  4  17  ~/threshold.sh
+|4,39,4,17,1669167483,"~/threshold.sh"
 -'  8  1  ~/threshold.sh
 |4,39,8,1,1669167455,"~/threshold.sh"
 -'  8  1  ~/threshold.sh
@@ -306,95 +392,11 @@ $
 |4,39,8,1,1669167455,"~/threshold.sh"
 -'  8  1  ~/threshold.sh
 |4,39,8,1,1669167455,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  7  1  ~/threshold.sh
-|4,39,7,1,1669167447,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
--'  1  0  ~/threshold.sh
-|4,39,1,0,1669167182,"~/threshold.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/tomcat.sh
-	*	1669560563	0
+	*	1669568629	0
 	"	15	32
 	^	15	33
 	.	15	32
